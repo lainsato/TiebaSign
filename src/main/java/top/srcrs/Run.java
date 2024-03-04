@@ -171,7 +171,7 @@ public class Run {
                         iterator.remove();
                         success.add(rotation);
                         failed.remove(rotation);
-                        LOGGER.info(rotation + ": " + "签到成功");
+//                        LOGGER.info(rotation + ": " + "签到成功");
                     } else {
                         failed.add(rotation);
                         LOGGER.warn(rotation + ": " + "签到失败");
