@@ -26,7 +26,6 @@
 
 在网页中登录上贴吧，然后按下`F12`打开调试模式，在`cookie`中找到`BDUSS`，并复制其`Value`值。
 
-![](./assets/获取BDUSS.gif)
 
 ## 3.将BDUSS添加到仓库的Secrets中
 
